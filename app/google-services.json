@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "298979874372",
+    "firebase_url": "https://albumdefotosparamontarpdf.firebaseio.com",
+    "project_id": "albumdefotosparamontarpdf",
+    "storage_bucket": "albumdefotosparamontarpdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298979874372:android:64bf70cb66fd2b40",
+        "android_client_info": {
+          "package_name": "br.com.bossini.albumdefotosparamontarpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298979874372-cjt33ft289skahjq8v89bepvjkffaac1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.albumdefotosparamontarpdf",
+            "certificate_hash": "43f8b187a57ef46fcd0780c3bd438e893b4161d5"
+          }
+        },
+        {
+          "client_id": "298979874372-elp7r06kgt1aecv9jfssddhq7jdjel9i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "298979874372-elp7r06kgt1aecv9jfssddhq7jdjel9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyG_GHlkTyFvWhy3feLO3uD8EQ_OHWRC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298979874372-elp7r06kgt1aecv9jfssddhq7jdjel9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
